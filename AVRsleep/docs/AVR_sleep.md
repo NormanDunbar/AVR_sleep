@@ -125,7 +125,7 @@ Example:
 
 ```
 void postSleep() {
-	// Do something before sleeping.
+	// Do something after waking.
 	...
 }
 
