@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Classes (KEYWORD1)
+#######################################
+AVR_sleep	KEYWORD1
+AVRsleep	KEYWORD1
+
+#######################################
+# Class Methods & Functions (KEYWORD2)
+#######################################
+sleep	KEYWORD2
+setSleepMode	KEYWORD2
+goToSleep	KEYWORD2
+attachPreSleep	KEYWORD2
+attachWakeUp	KEYWORD2
+
+######################################
+# Others Constants (LITERAL1)
+#######################################
+SM_IDLE	LITERAL1
+SM_ADC	LITERAL1
+SM_POWER_DOWN	LITERAL1
+SM_POWER_SAVE	LITERAL1
+SM_STANDBY	LITERAL1
+SM_EXT_STANDBY	LITERAL1
+
+PM_NONE	LITERAL1
+PM_TWI_OFF	LITERAL1
+PM_TIMER2_OFF	LITERAL1
+PM_TIMER0_OFF	LITERAL1
+PM_TIMER1_OFF	LITERAL1
+PM_SPI_OFF	LITERAL1
+PM_USART_OFF	LITERAL1
+PM_ADC_OFF	LITERAL1
+PM_PRR_OFF	LITERAL1
+PM_AC_OFF	LITERAL1
+PM_BOD_OFF	LITERAL1
+PM_WDT_OFF	LITERAL1
+PM_EVERYTHING_OFF	LITERAL1
+
