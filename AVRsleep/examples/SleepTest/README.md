@@ -1,0 +1,1 @@
+This example requires the AVR_wdt library to be installed. You can download it from its [GitHub Repository](https://github.com/NormanDunbar/AVRwdt/releases/latest "https://github.com/NormanDunbar/AVRwdt/releases/latest").
